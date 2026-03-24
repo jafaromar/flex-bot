@@ -1,0 +1,23 @@
+import os
+print("حقوق المهيب")
+print("∞"*60)
+
+os.system('pip install pyfiglet')
+os.system('pip install requests')
+os.system('pip install os')
+os.system('pip install random')
+os.system('pip install json')
+os.system('pip install threading')
+os.system('pip install secrets')
+os.system('pip install uuid')
+os.system('pip install colorama')
+os.system('pip install time')
+os.system('pip install datetime')
+os.system('pip install secrets')
+os.system('pip install user_agent')
+os.system('pip install sys')
+os.system('pip install time')
+
+os.system('cls' if os.name == 'nt' else 'clear') 
+print("≠"*60)
+print('تم اكتمال تنزيل جميع المكاتب المطلوبه')
